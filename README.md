@@ -90,7 +90,6 @@ Agentic AI project exploring RAG-based claim analysis, document verification and
 
 **Tech:** Python | LangGraph | LangChain | Groq | ChromaDB
 
-[View GitHub Repository](https://github.com/nayanatumma69-collab/ClaimForge_AI)
 
 ---
 
