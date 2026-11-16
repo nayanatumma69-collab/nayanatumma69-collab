@@ -81,7 +81,9 @@ Machine-learning dashboard to analyze student performance and identify students 
 ### 4. Insurance Claims Adjudication Agent
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI-Insurance_Claims-purple?style=for-the-badge" alt="Insurance claims AI" />
+  <a href="https://claimforge-ai.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_OPEN_LIVE_APPLICATION-CLAIMFORGE_AI-purple?style=for-the-badge" alt="ClaimForge AI live application" />
+  </a>
 </p>
 
 Agentic AI project exploring RAG-based claim analysis, document verification and human-in-the-loop review.
