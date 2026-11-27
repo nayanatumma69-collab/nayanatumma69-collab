@@ -1,115 +1,82 @@
-# 👋 Hi, I'm Nayana Tumma
-
-<h2 align="center">🚀 Aspiring GenAI & Agentic AI Developer</h2>
+<h1 align="center">👋 Hi, I'm Nayana Tumma</h1>
+<h3 align="center">🚀 Aspiring GenAI & Agentic AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Generative+AI+Enthusiast;Agentic+AI+Developer+in+Progress;Python+%7C+LLM+%7C+RAG+%7C+LangGraph" alt="Typing animation" />
+  <img src="assets/neon-highfive-llm.gif" width="100%" alt="Developer and robot high-five surrounded by Python, LLM, RAG and Agentic AI icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative-AI-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic-AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=I+build+with+GenAI%2C+RAG+and+agents;Python+%7C+LLM+%7C+LangChain+%7C+LangGraph;Always+learning%2C+always+building" alt="I build with GenAI, RAG and agents" />
 </p>
 
 ---
 
-## 🌟 About Me
-
-I'm an aspiring GenAI and Agentic AI Developer with an M.Tech in Computer Science.
-
-- 🎓 M.Tech – Computer Science
-- 💼 AI Intern – WeIntern
-- 🤖 Interested in Generative AI, LLMs and Agentic AI
-- 🐍 Python and AI application development
-- 🚀 Building practical AI projects
-
----
-
-## 🛠️ My Tech Stack
+## 🤖 Boot Sequence
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Programming tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-Framework-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-Agentic%20AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-Application%20Development-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-LLM%20API-orange?style=for-the-badge" />
+  <img src="assets/boot-terminal-v2.gif" width="100%" alt="M.Tech in Computer Science, AI Intern at WeIntern, focused on GenAI and agents" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. Resume Screening AI
+## 🌌 Skill Galaxy
 
 <p align="center">
-  <a href="https://resume-screening-ai-8g7xzgkhckndkfznumxlah.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_Open_Live_Application-Resume_Screening_AI-blue?style=for-the-badge" alt="Resume Screening AI demo" />
-  </a>
-</p>
-
-AI-powered resume analysis and job-description matching using NLP and semantic similarity.
-
-**Tech:** Python | NLP | Sentence Transformers | Streamlit
-
-### 2. AI Content Generator
-
-<p align="center">
-  <a href="https://ai-content-generator-kkwzg66gdmwsswxj4dsfs2.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_Open_Live_Application-AI_Content_Generator-purple?style=for-the-badge" alt="AI Content Generator demo" />
-  </a>
-</p>
-
-Generates and refines content using LLMs, Groq API and prompt engineering.
-
-**Tech:** Python | Groq API | Generative AI | Streamlit
-
-### 3. Student Success & At-Risk Prediction Dashboard
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-Student_Analytics-blue?style=for-the-badge" alt="Student analytics" />
-</p>
-
-Machine-learning dashboard to analyze student performance and identify students who may need additional support.
-
-**Tech:** Python | Pandas | Scikit-learn | Streamlit | Plotly
-
-### 4. Insurance Claims Adjudication Agent
-
-<p align="center">
-  <a href="https://claimforge-ai.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_OPEN_LIVE_APPLICATION-CLAIMFORGE_AI-purple?style=for-the-badge" alt="ClaimForge AI live application" />
-  </a>
-</p>
-
-Agentic AI project exploring RAG-based claim analysis, document verification and human-in-the-loop review.
-
-**Tech:** Python | LangGraph | LangChain | Groq | ChromaDB
-
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nayanatumma69-collab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatumma69-collab&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+  <img src="assets/skill-galaxy-v2.gif" width="100%" alt="Python, LLM, RAG, LangChain, LangGraph, Groq, ChromaDB, Streamlit and Scikit-learn" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nayanatumma69-collab&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode" alt="Python, Scikit-learn, Git, GitHub and VS Code" />
 </p>
 
 ---
 
-## 🎓 Certifications
+## 🧪 My AI Lab
+
+<p align="center">
+  <img src="assets/ai-lab-v2.gif" width="100%" alt="Resume Screening AI, AI Content Generator, Student Success and ClaimForge AI" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Resume Screening AI</h3>
+      <p>AI-powered resume analysis and job-description matching using NLP and semantic similarity.</p>
+      <p><code>Python</code> <code>NLP</code> <code>Sentence Transformers</code> <code>Streamlit</code></p>
+      <p><a href="https://resume-screening-ai-8g7xzgkhckndkfznumxlah.streamlit.app/"><b>🚀 Live app</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✍️ AI Content Generator</h3>
+      <p>Generates and refines content using LLMs, Groq API and prompt engineering.</p>
+      <p><code>Python</code> <code>Groq API</code> <code>Generative AI</code> <code>Streamlit</code></p>
+      <p><a href="https://ai-content-generator-kkwzg66gdmwsswxj4dsfs2.streamlit.app/"><b>🚀 Live app</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Success & At-Risk Prediction</h3>
+      <p>Machine-learning dashboard to analyze student performance and identify students who may need support.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>Streamlit</code> <code>Plotly</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ ClaimForge AI</h3>
+      <p>Insurance claims agent exploring RAG-based analysis, document verification and human-in-the-loop review.</p>
+      <p><code>Python</code> <code>LangGraph</code> <code>LangChain</code> <code>Groq</code> <code>ChromaDB</code></p>
+      <p><a href="https://claimforge-ai.streamlit.app/"><b>🚀 Live app</b></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience & Education
+
+- **AI Intern**, WeIntern
+- **M.Tech**, Computer Science
+
+## 🏅 Certifications
 
 - Advanced Generative AI & Agentic AI
-- AI Internship – WeIntern
 
 ---
 
@@ -124,4 +91,6 @@ Agentic AI project exploring RAG-based claim analysis, document verification and
   </a>
 </p>
 
-<h3 align="center">✨ Always Learning | Always Building | Exploring AI ✨</h3>
+<p align="center">
+  <img src="assets/dream-code-create-v2.gif" width="100%" alt="Dream. Code. Create." />
+</p>
