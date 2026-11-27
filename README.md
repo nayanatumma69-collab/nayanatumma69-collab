@@ -4,6 +4,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=I+build+with+GenAI%2C+RAG+and+agents;Python+%7C+LLM+%7C+LangChain+%7C+LangGraph;Always+learning%2C+always+building" alt="I build with GenAI, RAG and agents" />
 </p>
 
+<p align="center">
+  <a href="https://nayanatumma69-collab.github.io">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-8A2BE2?style=for-the-badge" alt="View my portfolio" />
+  </a>
+</p>
+
 ## 🤖 About Me
 
 <img align="right" src="assets/neon-highfive-llm.gif" width="360" alt="Developer and robot working together" />
@@ -80,6 +86,7 @@ Claims agent exploring RAG, document checks and human review.
 **Let's connect and build something with AI.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayana-tumma-23187687)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nayanatumma69-collab.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nayanatumma69-collab)
 
 <br clear="right" />
